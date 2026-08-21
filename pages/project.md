@@ -47,24 +47,24 @@ As you form your teams, prior familiarity with languages or platforms may play i
 
 ## Project Hall of Fame
 To give you some motivation, here are teams from prior semesters that have engaged with the communities of their selected open source projects. Your team should aspire to get listed in this repo. After all, this course made it to the Arctic Code Vault!
-* [List of successful contributions to OSS projects from student teams](https://robinagandhi.github.io/swa/pages/halloffame.html)  
+* [List of successful contributions to OSS projects from student teams]({{ '/pages/halloffame.html' | relative_url }})  
 
 ## Past Teams Project Repositories
 The deliverables from the class project are posted in a public repository. You can find the artifacts from prior semester teams below. While these can act as examples, there is no guarantee that they did it right! They may also be following different assignment instructions.
 
-* [Teams 2024](https://robinagandhi.github.io/swa/slides/teams-2024/teams.html)
-* [Teams 2023](https://robinagandhi.github.io/swa/slides/teams-2023/teams.html)
-* [Teams 2022](https://robinagandhi.github.io/swa/slides/teams-2022/teams.html)
-* [Teams 2021](https://robinagandhi.github.io/swa/slides/teams-2021/teams.html)
-* [Teams 2020](https://robinagandhi.github.io/swa/slides/teams-2020/teams.html)
-* [Teams 2019](https://robinagandhi.github.io/swa/slides/teams-2019/teams.html)
-* [Teams 2018](https://robinagandhi.github.io/swa/slides/teams-2018/teams.html)
-* [Teams 2017](https://robinagandhi.github.io/swa/slides/teams-2017/teams.html)
-* [Teams 2016](https://robinagandhi.github.io/swa/slides/teams-2016/teams.html)
+* [Teams 2024]({{ '/slides/teams-2024/teams.html' | relative_url }})
+* [Teams 2023]({{ '/slides/teams-2023/teams.html' | relative_url }})
+* [Teams 2022]({{ '/slides/teams-2022/teams.html' | relative_url }})
+* [Teams 2021]({{ '/slides/teams-2021/teams.html' | relative_url }})
+* [Teams 2020]({{ '/slides/teams-2020/teams.html' | relative_url }})
+* [Teams 2019]({{ '/slides/teams-2019/teams.html' | relative_url }})
+* [Teams 2018]({{ '/slides/teams-2018/teams.html' | relative_url }})
+* [Teams 2017]({{ '/slides/teams-2017/teams.html' | relative_url }})
+* [Teams 2016]({{ '/slides/teams-2016/teams.html' | relative_url }})
 
 ## Teams Project for Fall 2025
 
-* [Teams 2025](https://robinagandhi.github.io/swa/slides/teams-2025/teams.html).
+* [Teams 2025]({{ '/slides/teams-2025/teams.html' | relative_url }}).
 
 ## Project Grading
 * The project accounts for 40% of the total course grade.

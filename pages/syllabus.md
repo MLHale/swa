@@ -120,7 +120,7 @@ There will be a mid-term and a final exam. The exams will consist of essay-type 
 Synchronous working sessions for teams will correspond to the stages of the software development lifecycle. The objective of these sessions is to gain hands-on experience with various techniques and tools for software assurance and apply them to understand the engineering activities necessary for building security in. Details about these sessions will follow as we go further into the semester.
 
 # Team-based Semester Project
-We will examine this aspect of the course in more detail on the [Team Project Page](https://robinagandhi.github.io/swa/pages/project.html).
+We will examine this aspect of the course in more detail on the [Team Project Page]({{ '/pages/project.html' | relative_url }}).
 
 # Grading
 20% Mid-term  
