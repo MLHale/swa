@@ -26,7 +26,7 @@ In interactions with real customers, you will quickly realize that requirements 
 class: middle
 # [NIST SP 800-160 SSE](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1r1.pdf)
 ## .green[Stakeholder Needs and Requirements] Definition Process\*
-- **Purpose (Security Perspective):** _.red[Define the stakeholder security requirements] that include [protection capability](https://robinagandhi.github.io/swa/slides/lecture-1/systems-security-engineering.html#16), security characteristics, and security-driven constraints for the systems, so as to securely provide the capabilities needed by users and other stakeholders in a defined environment._
+- **Purpose (Security Perspective):** _.red[Define the stakeholder security requirements] that include [protection capability](../lecture-1/systems-security-engineering.html#16), security characteristics, and security-driven constraints for the systems, so as to securely provide the capabilities needed by users and other stakeholders in a defined environment._
 
 .footnote[
 \*ISO/IEC/IEEE 15288-2023
@@ -34,7 +34,7 @@ class: middle
 
 ???
 NIST SP 800-160, the systems security engineering guide, identifies two technical processes in the requirements lifecycle phase where security can be integrated. The first process is the Stakeholder Needs and Requirements Definition Process.
-The purpose of this process from a security perspective is to define the stakeholder security requirements] that include [protection capability](https://robinagandhi.github.io/swa/slides/lecture-1/systems-security-engineering.html#16), security characteristics, and security-driven constraints for the systems. The goal of this activity is to securely provide the capabilities needed by users and other stakeholders in a defined operational environment. Like the previous sentence in the definition, the we want to identify capabilities including general features and security features.
+The purpose of this process from a security perspective is to define the stakeholder security requirements] that include [protection capability](../lecture-1/systems-security-engineering.html#16), security characteristics, and security-driven constraints for the systems. The goal of this activity is to securely provide the capabilities needed by users and other stakeholders in a defined operational environment. Like the previous sentence in the definition, the we want to identify capabilities including general features and security features.
 
 ---
 class: middle
@@ -56,7 +56,7 @@ Requirements] vs .blue[System Requirements]
 
 > Litmus test for requirements:  
 _Would the stakeholders still have the requirement even if we did not build the software?_
-- **Yes:** It is a stakeholder requirement and need. These are located in the [environment of operation for the system-of-interest](https://robinagandhi.github.io/swa/slides/lecture-1/systems-security-engineering.html#13)
+- **Yes:** It is a stakeholder requirement and need. These are located in the [environment of operation for the system-of-interest](../lecture-1/systems-security-engineering.html#13)
 - **No:** It is a system/software requirements. These are located at the shared interface between the machine and the environment
 
 .top-right[
