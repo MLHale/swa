@@ -12,7 +12,7 @@ class: center, middle
 ]
 
 ---
-![recap](https://robinagandhi.github.io/swa/slides/lecture-1/images/framework-course-topics.png)
+![recap](../lecture-1/images/framework-course-topics.png)
 ???
 # Quick recap
 ---
@@ -67,7 +67,7 @@ class: middle
 
 .left-column[
 ## External Interactor/Entity
-- .red[_Uncontrollable_] by the codebase of interest but is within the [environment of operation](https://robinagandhi.github.io/swa/slides/lecture-1/systems-security-engineering.html#12)
+- .red[_Uncontrollable_] by the codebase of interest but is within the [environment of operation](../lecture-1/systems-security-engineering.html#12)
 - Generates data (Source)
 - Receives data (Sink)
 
@@ -601,7 +601,7 @@ Testers often finds issues with threat model or missing details
 - Ease developers into doing threat modeling
 - [Card Game Introduction](https://www.microsoft.com/en-us/sdl/adopt/eop.aspx)
 - [How to play](http://social.technet.microsoft.com/wiki/contents/articles/285.elevation-of-privilege-the-game.aspx)
-- [Card Images](https://robinagandhi.github.io/swa/slides/lecture-4/images/eopcardcameimages.pdf)
+- [Card Images](images/eopcardcameimages.pdf)
 
 ![EOP](https://c.s-microsoft.com/en-us/CMSImages/EoP_game_screen_shot.jpg?version=4a082487-9fb4-7dd9-ed9f-e79c888c2df4)
 

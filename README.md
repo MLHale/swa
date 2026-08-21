@@ -5,7 +5,7 @@ This repository includes all contents related to CYBR 8420 Software Assurance co
 [Robin A. Gandhi](http://faculty.ist.unomaha.edu/rgandhi/)
 
 # Course access
-This course uses Github Pages using Jekyll themes and remark.js for publishing instructional content.  Course materials can be browsed here: [https://robinagandhi.github.io/swa](https://robinagandhi.github.io/swa)
+This course uses Github Pages using Jekyll themes and remark.js for publishing instructional content.  Course materials can be browsed here: [the repository root](./)
 
 
 # How to Clone this Repo

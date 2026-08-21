@@ -7,24 +7,24 @@ description: CYBR 8420 Software Assurance Modules
 # Class Topics*
 Content will be linked as we progress through the semester. This allows to me to update/create/re-design content throughout the semester.
 
-1. Reading: Software Assurance [Competencies](http://resources.sei.cmu.edu/library/asset-view.cfm?assetid=47953) and Sample [Job](https://robinagandhi.github.io/swa/resources/swa-positions-1.pdf) [Descriptions](https://robinagandhi.github.io/swa/resources/swa-positions-2.pdf)
-1. [**What is Software Assurance?**](https://robinagandhi.github.io/swa/slides/lecture-0/software-assurance.html)
+1. Reading: Software Assurance [Competencies](http://resources.sei.cmu.edu/library/asset-view.cfm?assetid=47953) and Sample [Job]({{ '/resources/swa-positions-1.pdf' | relative_url }}) [Descriptions]({{ '/resources/swa-positions-2.pdf' | relative_url }})
+1. [**What is Software Assurance?**]({{ '/slides/lecture-0/software-assurance.html' | relative_url }})
 1. Hands-on: Collaborating when working on Software
-  - Get familiar with version control. [Github Primer](https://robinagandhi.github.io/swa/pages/github.html)
-  - Get familiar with containers. [Container Primer](https://robinagandhi.github.io/swa/pages/containers.html)
-1. [**Engineering For Assurance**](https://robinagandhi.github.io/swa/slides/lecture-1/systems-security-engineering.html)
+  - Get familiar with version control. [Github Primer]({{ '/pages/github.html' | relative_url }})
+  - Get familiar with containers. [Container Primer]({{ '/pages/containers.html' | relative_url }})
+1. [**Engineering For Assurance**]({{ '/slides/lecture-1/systems-security-engineering.html' | relative_url }})
   * Systems Security Engineering. Based on Chapter 2 from [NIST SP 800-160](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1.pdf).
 1. Guest Talk
-  * [**Engaging with Open Source Projects**](https://robinagandhi.github.io/swa/slides/lecture-0-1/EngagingWithOpenSourceProjects.pdf), by [Matt Germonprez](http://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php)
+  * [**Engaging with Open Source Projects**]({{ '/slides/lecture-0-1/EngagingWithOpenSourceProjects.pdf' | relative_url }}), by [Matt Germonprez](http://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php)
 1. **Requirements for Software Security Engineering**
-  * [The Meaning of Requirements for Software Security Engineering](https://robinagandhi.github.io/swa/slides/lecture-3/requirements-for-software-se.html)  
-  * [Elicitation - Misuse Cases](https://robinagandhi.github.io/swa/slides/lecture-3/requirements-for-software-se-misuse.html)
-  * [Assignment: Misuse Case Exercise (Team Deliverable)](https://robinagandhi.github.io/swa/slides/lecture-3/requirements-for-software-se-misuse.html#26)  
+  * [The Meaning of Requirements for Software Security Engineering]({{ '/slides/lecture-3/requirements-for-software-se.html' | relative_url }})  
+  * [Elicitation - Misuse Cases]({{ '/slides/lecture-3/requirements-for-software-se-misuse.html' | relative_url }})
+  * [Assignment: Misuse Case Exercise (Team Deliverable)]({{ '/slides/lecture-3/requirements-for-software-se-misuse.html' | relative_url }}#26)  
   * Additional Reference: Translating compliance constraints to requirements. [NIST 800-160 public draft 2, Appendix-J](http://csrc.nist.gov/publications/drafts/800-160/sp800_160_second-draft.pdf)
   * Hands-on: In-class working session on Misuse Cases
 1. **Assurance Cases for Software Security Engineering**
-  * Trustworthiness context: [Assurance cases](https://robinagandhi.github.io/swa/slides/lecture-2/assurance-case.html)
-  * Assignment: [Assurance Case Exercise (Team Deliverable)](https://robinagandhi.github.io/swa/slides/lecture-2/assurance-case-exercise.html#1)
+  * Trustworthiness context: [Assurance cases]({{ '/slides/lecture-2/assurance-case.html' | relative_url }})
+  * Assignment: [Assurance Case Exercise (Team Deliverable)]({{ '/slides/lecture-2/assurance-case-exercise.html' | relative_url }}#1)
   * Hands-on: In-class working session on Assurance Cases
   * Reference: [ISO Standard](https://unomaha.on.worldcat.org/oclc/772089071?databaseList=638) for Assurance cases. (See Canvas)
   * Reference: [OMG Structured Assurance Case Metamodel](https://www.omg.org/spec/SACM/About-SACM)
@@ -33,13 +33,13 @@ Content will be linked as we progress through the semester. This allows to me to
 1. **Maturity Models for Software Security Engineering**
   * Build Security In Maturity Model ([BSIMM](https://www.bsimm.com))
 1. **Design for Software Security Engineering**
-  * Lecture: [Threat Modeling](https://robinagandhi.github.io/swa/slides/lecture-4/design-for-software-se.html)
+  * Lecture: [Threat Modeling]({{ '/slides/lecture-4/design-for-software-se.html' | relative_url }})
   * Lecture: Design patterns for Design Principles (See Canvas)
   * Lecture: Architectural patterns for security (See Canvas)
   * Reading: NIST 800-160 Appendix-F: Design Principles for Security (See Canvas)
   * Hands-on: In-class working session on Threat Modeling using Microsoft Threat Modeling Tool.  
 1. **Coding for Software Security Engineering**
-  * [Coding for SSE Lecture](https://robinagandhi.github.io/swa/slides/lecture-5/code-for-software-se.html)  
+  * [Coding for SSE Lecture]({{ '/slides/lecture-5/code-for-software-se.html' | relative_url }})  
   Knowledge-bases: [Common Weakness Enumeration](http://cwe.mitre.org/), [CAPEC](https://capec.mitre.org/), [CERT Secure Coding Guidelines](https://www.securecoding.cert.org/confluence/display/seccode/SEI+CERT+Coding+Standards)
   * [DHS SWAMP](https://www.mir-swamp.org/)
   * Lecture: Code review tools and techniques
