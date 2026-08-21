@@ -566,7 +566,7 @@ This course has been developed on GitHub to encourage open collaboration and lea
 - Propose improvements or corrections by submitting pull requests.
 
 **How to fork and contribute:**
-1. Navigate to the [course repository on GitHub](https://github.com/robinagandhi/swa).
+1. Navigate to the [course repository on GitHub]({{ site.github.repository_url }}).
 2. Click the "Fork" button to create your own copy of the repository.
 3. Make changes in your forked repository—add notes, fix typos, or suggest new content.
 4. To share your improvements, submit a pull request back to the original course repository.
