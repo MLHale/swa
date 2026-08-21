@@ -2,7 +2,7 @@
 This repository includes all contents related to CYBR 8420 Software Assurance course at The University of Nebraska Omaha.
 
 # Course Author
-[Robin A. Gandhi](http://faculty.ist.unomaha.edu/rgandhi/)
+[Robin A. Gandhi](http://faculty.ist.unomaha.edu/rgandhi/), modified for FA2026 offering by Matt Hale
 
 # Course access
 This course uses Github Pages using Jekyll themes and remark.js for publishing instructional content.  Course materials can be browsed here: [the repository root](./)
@@ -18,7 +18,7 @@ mkdir swa
 cd swa
 # Clone the Repository to the current directory
 # Notice the `.` at the end of the command
-git clone https://www.github.com/robinagandhi/swa .
+git clone https://www.github.com/mlhale/swa .
 ```
 Now examine the ```swa``` directory structure. It should have the same directory structure as this repository on Github.com.
 
